@@ -8,7 +8,7 @@ The following activation functions are implemented:
 - **Tanh**: Hyperbolic tangent activation function, an alternative to ReLU.
 - **Sigmoid**: Used in the output layer for binary classification.
 - **Softmax**: Used for multi-class classification if needed.
-
+<img src="https://github.com/1216-dev/NewScrach_Neural-Network/blob/main/nn.jpg"> 
 ## Cost Function
 
 The cost function for binary classification is computed using the cross-entropy loss:
